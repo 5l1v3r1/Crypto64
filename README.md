@@ -21,7 +21,7 @@ Herramienta de Ofuscación de Código
 
 <br>
 
-><img src="https://i.imgur.com/iuZg3at.png">
+><img src="">
 
 # Caracteristicas:
 
@@ -60,10 +60,7 @@ $sudo bash config.sh
 <br>
 
 ## Video 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=AtOLTgTL5uM">
-</iframe>
-
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=AtOLTgTL5uM"></iframe>
 
 
 ## Linencia:
