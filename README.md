@@ -63,7 +63,9 @@ $sudo bash config.sh
 ## Video 
 <p>Enlace al Video</p>
 <br>
+<div align='center'>
 https://www.youtube.com/watch?v=AtOLTgTL5uM
+</div>
 <br>
 
 ## Linencia:
