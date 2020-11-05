@@ -53,8 +53,15 @@ $ sudo bash config.sh
 ## Imagenes
 
 <h4 align='center'>CAPTURAS:</h4>
-<div align='center'>
-<img src="">
+<div align='center'> 
+ <img src="https://i.imgur.com/ZOU8pav.png">
+<img src="https://i.imgur.com/za1cZSF.png">
+ <img src="https://i.imgur.com/PGdJ8ls.png">
+  <img src="https://i.imgur.com/skX985d.png">
+<img src="https://i.imgur.com/SMEoNeN.png">
+  <img src="https://i.imgur.com/yTkoRBo.png">
+  <img src="">
+  <img src="">
 </div>
 
 <br>
