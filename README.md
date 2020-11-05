@@ -2,9 +2,10 @@
 Herramienta de Ofuscación de Código
 
 <br>
-<br>
-
 <div align="center">
+<img src="https://i.imgur.com/U7kn6R9.png">
+
+</div>
   
 
 
@@ -60,8 +61,10 @@ $sudo bash config.sh
 <br>
 
 ## Video 
-<video width="420" height="315" src="https://www.youtube.com/watch?v=AtOLTgTL5uM" >
-
+<p>Enlace al Video</p>
+<br>
+https://www.youtube.com/watch?v=AtOLTgTL5uM
+<br>
 
 ## Linencia:
 
