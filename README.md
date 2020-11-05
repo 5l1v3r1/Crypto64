@@ -28,6 +28,7 @@ Herramienta de Ofuscación de Código
 * Actualmente esta enfocado para Python
 * Version 1.0
 * Metodo Base64
+* Ofusca codigo Python
 
 ## Instalación: 
 
