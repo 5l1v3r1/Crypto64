@@ -61,9 +61,10 @@ $sudo bash config.sh
 <br>
 
 ## Video 
-<p>Enlace al Video</p>
-<br>
 <div align='center'>
+<h4 align='center'>LINK/ENLACE:</h4>
+<br>
+
 https://www.youtube.com/watch?v=AtOLTgTL5uM
 </div>
 <br>
