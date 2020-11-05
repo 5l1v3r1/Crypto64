@@ -60,7 +60,7 @@ $sudo bash config.sh
 <br>
 
 ## Video 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=AtOLTgTL5uM" >
+<video width="420" height="315" src="https://www.youtube.com/watch?v=AtOLTgTL5uM" >
 
 
 ## Linencia:
